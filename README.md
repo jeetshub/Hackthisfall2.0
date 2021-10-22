@@ -1,3 +1,43 @@
 # Hackthisfall2.0
 This repository contains the project idea that our team has built during the hackathon.
-## This is a project is built for the purpose to gave monitoring system
+# Problem Statement
+In most of the Indian homes, they use motor to transfer water
+from ground well to tank above the roof.
+<br>
+Due to not knowing how much water is still left to be
+transferred in the tank, most of the times water overflows and
+gets wasted.
+<br>
+In times of water crisis and where many countries don’t even
+get pure water daily, we must take some approach to save the
+overflow of water.
+<br>
+# An approch using circuit
+One of the approaches towards this probelm is to
+use an alarm.
+<br>
+In this approach Alarm is sounded and someone
+could just switch off the motor
+<br>
+Now the question arises, when should be the
+alarm sounded and on what basis its sounded?
+<br>
+# Working of Alarm
+There are two wires in the alarm circuit, which are not connected initially and are
+in air.
+<br>
+Since they are in air, no current passes through them.
+<br>
+When will the current pass?
+<br>
+Current will pass when there comes in between the wires something that conducts
+electricity.
+<br>
+One of the material is water. So when water reaches a certain level in the tank, the
+circuit is closed and alarm is sounded.
+<br>
+In this way one can stop the water form leakage/overflow.
+<br>
+![Untitled](https://user-images.githubusercontent.com/55314442/138474088-5d101025-00ac-42d2-9ed0-ca7abb36bf90.png)
+<br>
+Thankyou!
