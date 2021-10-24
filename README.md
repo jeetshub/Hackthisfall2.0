@@ -43,6 +43,9 @@ In this way one can stop the water form leakage/overflow.
 The components used are as follows :- 
 <br>
 0-12 V, 1.5 Amp Transformer:-
+<br>
 ![Untitled](https://a.storyblok.com/f/131721/448x265/6b50e82356/img_20211023_130410.jpg)
+<br>
 12 V Buzzer
+<br>
 ![Untitled](https://a.storyblok.com/f/131721/336x370/8cbc43ed75/img_20211023_130311.jpg)
