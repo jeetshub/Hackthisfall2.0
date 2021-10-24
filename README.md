@@ -42,10 +42,24 @@ In this way one can stop the water form leakage/overflow.
 <br>
 The components used are as follows :- 
 <br>
-0-12 V, 1.5 Amp Transformer:-
+1. (0-12) V, 1.5 Amp Transformer:-
 <br>
 ![Untitled](https://a.storyblok.com/f/131721/448x265/6b50e82356/img_20211023_130410.jpg)
 <br>
-12 V Buzzer
+2. 12 V Buzzer
 <br>
 ![Untitled](https://a.storyblok.com/f/131721/336x370/8cbc43ed75/img_20211023_130311.jpg)
+<br>
+3. Bridge Rectifier & the Single Gateway Circuit
+<br>
+![Untitled](https://a.storyblok.com/f/131721/427x336/ac3706c7cf/img_20211023_115926.jpg)
+<br>
+4. A 12 V flusher
+<br>
+# Compenents used in the gateway circuit :-
+<br>
+1. A 10K preset 
+![Untitled](https://a.storyblok.com/f/131721/225x225/4ead9f1d82/download.jpg)
+2. Diodes IN 4007 
+3. Capacitors 4700 microfarads 25 V
+4. LEDs & 1K resistors for supply Indication.
