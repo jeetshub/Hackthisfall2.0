@@ -40,4 +40,8 @@ In this way one can stop the water form leakage/overflow.
 <br>
 ![Untitled](https://user-images.githubusercontent.com/55314442/138474088-5d101025-00ac-42d2-9ed0-ca7abb36bf90.png)
 <br>
-Thankyou!
+The components used are as follows :- 
+0-12 V, 1.5 Amp Transformer:-
+![Untitled](https://a.storyblok.com/f/131721/448x265/6b50e82356/img_20211023_130410.jpg)
+12 V Buzzer
+![Untitled](https://a.storyblok.com/f/131721/336x370/8cbc43ed75/img_20211023_130311.jpg)
